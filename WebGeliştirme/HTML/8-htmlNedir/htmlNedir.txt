@@ -1,0 +1,14 @@
+* Html bir programlama dili değil, bir işaretleme dilidir.
+* Belli etiket tagleri ile yazdığımız içerikleri tarayıcıya gönderdiğimizde görüntüye dönüştürür. 
+* Html etiketlerden oluşur.
+
+Göndermek istediğimiz içerikler için belli standartlarda etiketler mevcuttur. 
+
+Örneğin ;
+        
+        Bir film sitesinin başlığı  h ya da header tagleriyle *
+        Filmlerin sıralanması ul list tagleriyle*
+        Film linkleri a tagleriyle *
+        Filmlerin resimleri img tagleriyle * 
+
+gibi daha bir çok standart tagler söz konusudur.  

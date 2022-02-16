@@ -1,0 +1,8 @@
+html yapısı web siteler için çok önemlidir.
+içerikleri doğru tagler içinde yazmak sitenizin görülmesi ve ziyaret edilmesi açısından büyük avantaj sağlar. Google da bir arama yaptığımız zaman algoritma içeriği belli tagler içinde sınırlandırarak arar ve ön plana çıkartır. 
+
+
+-----------------
+
+
+Bir diğer konu ise sitenin incelenmesi için bilinmesi gereken geliştirici araçlarıdır. Google geliştirici aracı bize siteleri inceleme, html yapısını görme, cssler üzerinde oynama imkanı sağlayarak büyük kolaylıklar sağlar.

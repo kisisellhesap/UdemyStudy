@@ -1,0 +1,24 @@
+<br>   --  Altsatıra geçer.
+
+<title> -- Web sayfası başlık etiketidir.
+<meta> -- Web sayfası hakkında bilgiler verir.
+<html> -- Web içinde genel iskelet yapısını oluşturur.
+<head> -- Css gibi özellikler buraya yazılabilir.
+<body> -- Tüm tagler body içerisinde yazılmalıdır.Web sayfasınıın ana yapısını oluşuturur.
+
+<h1> -- Web içinde başlık etiketidir.
+<p> -- paragraflar için kullanılır.
+
+biçimlendirme tagleri --
+
+
+<b> -- yazıyı bold yapar.
+<strong> -- aynı şekilde yazıyı bold yapar ve seo için vurgular.
+<i> -- yazıyı italic yapar.
+<em> -- yazıyı italice yapar.
+<small> -- yazıyı küçüktür.
+<mark> --  yazının arkasını boyar.
+<del> -- yazının üstünü çizer.
+<ins> --  üstü çizilen yazının yerine eklenen yazı için kullanılır.
+<sub> -- yazının altında yazmak istediğimizde.
+<sup> -- yazının üstünde yazmak istediğimizde.
