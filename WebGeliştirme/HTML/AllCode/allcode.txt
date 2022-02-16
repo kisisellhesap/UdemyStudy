@@ -8,14 +8,15 @@
 
 <h1> -- Web içinde başlık etiketidir.
 <p> -- paragraflar için kullanılır.
+<img> -- imageleri web sayfasına eklemek için kullanılır.
+<a> -- butonlar ve linkler için kullanılır.
 
 biçimlendirme tagleri --
 
-
 <b> -- yazıyı bold yapar.
 <strong> -- aynı şekilde yazıyı bold yapar ve seo için vurgular.
-<i> -- yazıyı italic yapar.
-<em> -- yazıyı italice yapar.
+<i> -- yazıyı italic yapar. Alıntı için kullanılır .
+<em> -- yazıyı italic yapar. Kelimeyi vurgular.
 <small> -- yazıyı küçüktür.
 <mark> --  yazının arkasını boyar.
 <del> -- yazının üstünü çizer.
