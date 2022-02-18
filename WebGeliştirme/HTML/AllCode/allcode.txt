@@ -10,6 +10,31 @@
 <p> -- paragraflar için kullanılır.
 <img> -- imageleri web sayfasına eklemek için kullanılır.
 <a> -- butonlar ve linkler için kullanılır.
+<hr> -- çizgi 
+<ol> -- Sıralı liste
+<ul> -- Sırasız liste
+<dd> -- Açıklama satırları 
+
+<span> -- inline özelliğine sahiptir. p etiketleri içersinde kullanılırlar daha çok.
+<div> -- Genel anlamda gruplama için kullanılır. 
+
+Semantic tags--
+
+<section> -- kapsayıcı alandır. Bir nevi div işlevini görür.
+<nav> -- Menü linklerini içeren tagdir.
+<header> -- Sitenin başlık kısmıdır.
+<article> -- İçerik kısmıdır.
+<main> -- Ana kısım diyebileceğimiz kısımdır.
+<footer> -- Alt kısımdır.
+<figure> -- Resim içeriklerinin olduğu kısımdır.
+<aside> -- Sol ya da sağ kısımdır.
+
+<table>
+<thead>
+<tbody>
+<tr>
+<td>
+<th>
 
 biçimlendirme tagleri --
 
@@ -23,3 +48,4 @@ biçimlendirme tagleri --
 <ins> --  üstü çizilen yazının yerine eklenen yazı için kullanılır.
 <sub> -- yazının altında yazmak istediğimizde.
 <sup> -- yazının üstünde yazmak istediğimizde.
+

@@ -1,0 +1,2 @@
+Siteleri netlify, vercel gibi çeşitli platformlarda ücretsiz
+bir şekilde yayınlayabiliriz.
