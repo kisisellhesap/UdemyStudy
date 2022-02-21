@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Inheritance</title>
+<style>
+    p {
+        color:blue;
+        border: 2px solid #000;
+    }
+
+    /* 
+    
+    Görüldüğü gibi p etiketi içinde color direk olarak inherit edilirken border propertysi edilmez.
+    Eğer ki etmesini istersek ilgili propertyi vermek istediğimiz tage  property : inherit ; özelliğini kullanırız. Default değer içinse initial özelliği geçerli olur.
+    
+    */
+    p span {
+        border: inherit;
+    }
+</style>
+
+</head>
+<body>
+
+    
+    <p>Lorem ipsum dolor sit amet consectetur<span> adipisicing elit. </span> adipisicing elit. Nostrum, eum!</p>
+
+</body>
+</html>

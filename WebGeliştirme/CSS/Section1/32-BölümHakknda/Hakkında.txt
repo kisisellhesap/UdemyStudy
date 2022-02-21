@@ -1,0 +1,9 @@
+Bu bölüm css öğrenmedeki birinci kısımdır.
+Bu bölümde ;
+
+* Css'in ne olduğunu, ne işe yaradığını
+* Css'in söz dizimini ve Css tanımlama türlerini
+* Css selectorlerinin nasıl ullanıldığını
+* Css Id ve Class tanımlamaları
+* Css'deki kod öncelikleri
+* Css'i browser üzerinden kontrol etme

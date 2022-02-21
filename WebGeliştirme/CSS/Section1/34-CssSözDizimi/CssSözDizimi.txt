@@ -1,0 +1,6 @@
+Css söz dizimi ; 
+
+
+h1 { color : red ; }
+selector property value değerlerinden oluşur.
+id, class gibi selectorlere göre de seçimler uygulanabilir.
